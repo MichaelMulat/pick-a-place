@@ -1,1 +1,2 @@
-# pick-a-place
+# Pick-a-place
+## Final Project
